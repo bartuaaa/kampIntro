@@ -8,9 +8,12 @@ namespace Metotlar
 {
     internal class SepetManager
     {
-        public void Ekle()
+        public void Ekle(Urun urun)
         {
-            Console.WriteLine("sepete eklendi");
+            Console.WriteLine("sepete eklendi :" + urun.Adi);
+        }
+        public void Ekle2(string urunAdi, string aciklama, double fiyat)
+        {
 
         }
     }

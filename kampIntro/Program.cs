@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 string kategoriEtiketi = "kategori";
 bool sistemeGirisyapmisMi = false;
 double dolarDun = 7.55;

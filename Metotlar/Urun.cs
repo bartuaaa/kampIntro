@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Metotlar
 {
-    class Urun
+   public class Urun
     {
         public int Id { get; set; }
         public string Adi { get; set; }
